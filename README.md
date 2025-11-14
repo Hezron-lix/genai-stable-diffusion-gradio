@@ -16,5 +16,6 @@ To design and deploy a prototype application for image generation utilizing the 
 ### PROGRAM:
 
 ### OUTPUT:
+<img width="1148" height="620" alt="image" src="https://github.com/user-attachments/assets/0e42f3e5-4ba4-4702-925e-738f657f2cf4" />
 
 ### RESULT:
